@@ -1,2 +1,2 @@
 # DataBase
-collection code naot a database wrong commit
+collection code, not a database wrong commit
